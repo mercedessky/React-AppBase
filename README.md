@@ -2,7 +2,7 @@ Followed along with Tutorial on:
 https://docs.appbase.io/docs/reactivesearch/v3/overview/quickstart/
 
 Added Blue and Center in App.js file.
-
+Was not able to upload node_modules, too many files.
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
